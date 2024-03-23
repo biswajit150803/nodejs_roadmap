@@ -7,7 +7,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 ## Disclaimer
 
 > The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. 
-Also I have written preferrable if I have used that tool so that it might help you a bit. ( Image source: Internet)
+Also I have written preferrable if I have used that tool so that it might help you a bit. (P.S.: Image source: Internet)
 
 ## Give a Star! :star:
 
