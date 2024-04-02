@@ -1,6 +1,6 @@
 # Node.js Developer Roadmap
 
-> Roadmap to becoming a Backend(Node.js) Developer in 2024
+> Roadmap to become a Backend(Node.js) Developer in 2024
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js(backend) developer. I made this roadmap as a tip for all my juniors who ask me, "What should I learn next as a Node.js developer?"
 
